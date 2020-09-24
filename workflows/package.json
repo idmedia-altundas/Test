@@ -1,0 +1,13 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "Mein erstes Workflow Projekt",
+
+  
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Can Cemil Altundas",
+  "license": "ISC"
+}
